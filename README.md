@@ -1,10 +1,10 @@
 ### Olá! Eu sou o João Marcelo 👋
 * 20 years old student undergraduating in Computer science at University of Brasília;
 * 20 anos, estudante de ciência da computação na Universidade de Brasília;
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm-236&hide_progress=true&langs_count=20)
 
-<!--
+
 **jm-236/jm-236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
