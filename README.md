@@ -4,7 +4,7 @@
 
 ### Estudante de Ciência da Computação | Desenvolvedor Full Stack em formação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Apaixonado+por+Desenvolvimento+Full+Stack;Backend+e+Frontend+em+evolu%C3%A7%C3%A3o;Sempre+buscando+aprender+e+evoluir;Desenvolvendo+projetos+pessoais;Universidade+de+Bras%C3%ADlia+-+UnB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvimento+Full+Stack;Universidade+de+Bras%C3%ADlia+-+UnB" alt="Typing SVG" />
 
 </div>
 
